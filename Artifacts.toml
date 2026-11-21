@@ -1,0 +1,178 @@
+[[multicharge]]
+arch = "aarch64"
+git-tree-sha1 = "b5dcb184b1112869c9c7c0f17155295d40ddb5a7"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[multicharge.download]]
+    sha256 = "746c23088c970cd5959d39f0476451b0c275ba2f4450fe1fe3f2e8a66c44797e"
+    url = "https://github.com/JuliaBinaryWrappers/multicharge_jll.jl/releases/download/multicharge-v0.5.0+0/multicharge.v0.5.0.aarch64-apple-darwin-libgfortran5.tar.gz"
+[[multicharge]]
+arch = "aarch64"
+git-tree-sha1 = "d68c34b52053831e174de5708237ddd1048a2273"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[multicharge.download]]
+    sha256 = "41fc2757d55b861dc1cd54164452286f5325f8fb67b83648772fecc56e259ef0"
+    url = "https://github.com/JuliaBinaryWrappers/multicharge_jll.jl/releases/download/multicharge-v0.5.0+0/multicharge.v0.5.0.aarch64-linux-gnu-libgfortran5.tar.gz"
+[[multicharge]]
+arch = "aarch64"
+git-tree-sha1 = "bdf6d102087dba671268351fdcbacb1a3de12285"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[multicharge.download]]
+    sha256 = "cd39a5a27e8a200317ac96943da33f4975c2354f09f94d7efb49661678663985"
+    url = "https://github.com/JuliaBinaryWrappers/multicharge_jll.jl/releases/download/multicharge-v0.5.0+0/multicharge.v0.5.0.aarch64-linux-musl-libgfortran5.tar.gz"
+[[multicharge]]
+arch = "aarch64"
+git-tree-sha1 = "0f2529f7734b27c9a4c35a9ed215ccfbea3ceadf"
+libgfortran_version = "5.0.0"
+os = "freebsd"
+
+    [[multicharge.download]]
+    sha256 = "93c86d6d841ce2000d77bf266e96f1a4c0f5ddab16c63fb78fbe44e25101f033"
+    url = "https://github.com/JuliaBinaryWrappers/multicharge_jll.jl/releases/download/multicharge-v0.5.0+0/multicharge.v0.5.0.aarch64-unknown-freebsd-libgfortran5.tar.gz"
+[[multicharge]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "fed5bc5ac83722d926355f7f67a4db81eea6d25a"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[multicharge.download]]
+    sha256 = "99bac03a463346a57cbdb2620170dae78fbd2418925b9d7c60b8444f4ff2975e"
+    url = "https://github.com/JuliaBinaryWrappers/multicharge_jll.jl/releases/download/multicharge-v0.5.0+0/multicharge.v0.5.0.armv6l-linux-gnueabihf-libgfortran5.tar.gz"
+[[multicharge]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "2ad17f785693d4ba835ecec574078e20099e5f20"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[multicharge.download]]
+    sha256 = "217566bef2139c5e073e331df59729316041d2bafcfa24a8f9f4de4e22ff60aa"
+    url = "https://github.com/JuliaBinaryWrappers/multicharge_jll.jl/releases/download/multicharge-v0.5.0+0/multicharge.v0.5.0.armv6l-linux-musleabihf-libgfortran5.tar.gz"
+[[multicharge]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "132e3aff913f59c0d79c4ab2f63b0401865f6390"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[multicharge.download]]
+    sha256 = "7dfbe191d90a40223e456c5db45358d03dde4cb6dabd87099c21cd8cdc09f4e5"
+    url = "https://github.com/JuliaBinaryWrappers/multicharge_jll.jl/releases/download/multicharge-v0.5.0+0/multicharge.v0.5.0.armv7l-linux-gnueabihf-libgfortran5.tar.gz"
+[[multicharge]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "8a4650b6dd894fb4ebe37830645c5525c0596079"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[multicharge.download]]
+    sha256 = "cddc4835af1b06d3d977f5707ac150978fd4799be0616affc943984b124ce81d"
+    url = "https://github.com/JuliaBinaryWrappers/multicharge_jll.jl/releases/download/multicharge-v0.5.0+0/multicharge.v0.5.0.armv7l-linux-musleabihf-libgfortran5.tar.gz"
+[[multicharge]]
+arch = "i686"
+git-tree-sha1 = "e3d068580a9e804803ef21022aca1978606a3cc6"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[multicharge.download]]
+    sha256 = "e8d8d4f386a73b2123bdffda123af228b7071d24054a2a05a9da9f1e1482b801"
+    url = "https://github.com/JuliaBinaryWrappers/multicharge_jll.jl/releases/download/multicharge-v0.5.0+0/multicharge.v0.5.0.i686-linux-gnu-libgfortran5.tar.gz"
+[[multicharge]]
+arch = "i686"
+git-tree-sha1 = "97facf7df48aeee82ecb97cb40ec5c4dd948034b"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[multicharge.download]]
+    sha256 = "68fb6a233f112b83b8eda82c4b97bea3951dd0c591e59963a47f1e7a20f5a711"
+    url = "https://github.com/JuliaBinaryWrappers/multicharge_jll.jl/releases/download/multicharge-v0.5.0+0/multicharge.v0.5.0.i686-linux-musl-libgfortran5.tar.gz"
+[[multicharge]]
+arch = "i686"
+git-tree-sha1 = "6132a65cf74fa1eaf65ae5854f8bd2e0a4a0b381"
+libgfortran_version = "5.0.0"
+os = "windows"
+
+    [[multicharge.download]]
+    sha256 = "5c056542a9caa3411024d4d169a4770f53cefb2777fc9619a50f44f3feedd2ec"
+    url = "https://github.com/JuliaBinaryWrappers/multicharge_jll.jl/releases/download/multicharge-v0.5.0+0/multicharge.v0.5.0.i686-w64-mingw32-libgfortran5.tar.gz"
+[[multicharge]]
+arch = "powerpc64le"
+git-tree-sha1 = "c1d4af362edea415201396121f8bfeedff9f97b8"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[multicharge.download]]
+    sha256 = "93098611ec2b95c602bfd1f048dbb95748d60014b653ee271916a17f2dc5c1c9"
+    url = "https://github.com/JuliaBinaryWrappers/multicharge_jll.jl/releases/download/multicharge-v0.5.0+0/multicharge.v0.5.0.powerpc64le-linux-gnu-libgfortran5.tar.gz"
+[[multicharge]]
+arch = "riscv64"
+git-tree-sha1 = "bffaeb6f81ebde36decf609e6dc402b9ec3cff0b"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[multicharge.download]]
+    sha256 = "66087cf7f10a15b1ade3b9022ceeccf8b7bb20b40fa047220759c5564fbcdcd3"
+    url = "https://github.com/JuliaBinaryWrappers/multicharge_jll.jl/releases/download/multicharge-v0.5.0+0/multicharge.v0.5.0.riscv64-linux-gnu-libgfortran5.tar.gz"
+[[multicharge]]
+arch = "x86_64"
+git-tree-sha1 = "573c1274d583cda4c9127c5789eba339a35f5467"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[multicharge.download]]
+    sha256 = "7d374762c9cae9c7913c9c3692cb790037229bd8b73118c912751bfd4ebae8e9"
+    url = "https://github.com/JuliaBinaryWrappers/multicharge_jll.jl/releases/download/multicharge-v0.5.0+0/multicharge.v0.5.0.x86_64-apple-darwin-libgfortran5.tar.gz"
+[[multicharge]]
+arch = "x86_64"
+git-tree-sha1 = "e84d99c76b9e67b753d902c0dd7f113e83923189"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[multicharge.download]]
+    sha256 = "332a466848ea6bb8063486839a15f4382388ba485b34d6dc953d3dedc2eda004"
+    url = "https://github.com/JuliaBinaryWrappers/multicharge_jll.jl/releases/download/multicharge-v0.5.0+0/multicharge.v0.5.0.x86_64-linux-gnu-libgfortran5.tar.gz"
+[[multicharge]]
+arch = "x86_64"
+git-tree-sha1 = "1178e6599148d8bb6234eec30ee98edbbefc954a"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[multicharge.download]]
+    sha256 = "3505b04cbb8064ec19ee080137b20f3fd1fd0624e92662443a701e9a4d306294"
+    url = "https://github.com/JuliaBinaryWrappers/multicharge_jll.jl/releases/download/multicharge-v0.5.0+0/multicharge.v0.5.0.x86_64-linux-musl-libgfortran5.tar.gz"
+[[multicharge]]
+arch = "x86_64"
+git-tree-sha1 = "dda67bc26d95343bdaddc19c27013fca168da033"
+libgfortran_version = "5.0.0"
+os = "freebsd"
+
+    [[multicharge.download]]
+    sha256 = "334fa595ef3340915e9ed5b50268f9cce08c02441a5cf9af1d5165c6eb422f6c"
+    url = "https://github.com/JuliaBinaryWrappers/multicharge_jll.jl/releases/download/multicharge-v0.5.0+0/multicharge.v0.5.0.x86_64-unknown-freebsd-libgfortran5.tar.gz"
+[[multicharge]]
+arch = "x86_64"
+git-tree-sha1 = "62db64a0abcf775df6b2f88ecbf723ae92bad5fd"
+libgfortran_version = "5.0.0"
+os = "windows"
+
+    [[multicharge.download]]
+    sha256 = "909f1365b96ea01fc3e8f3b7ef244635ffcd62fc88f11e7e23f11e8328f55edb"
+    url = "https://github.com/JuliaBinaryWrappers/multicharge_jll.jl/releases/download/multicharge-v0.5.0+0/multicharge.v0.5.0.x86_64-w64-mingw32-libgfortran5.tar.gz"

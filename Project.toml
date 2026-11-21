@@ -1,0 +1,19 @@
+version = "0.5.0+0"
+name = "multicharge_jll"
+uuid = "7e9f4964-ed3e-5d71-81cc-cd4d372d4ce4"
+
+[deps]
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
+libblastrampoline_jll = "8e850b90-86db-534c-a0d3-1478176c7d93"
+Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
+mctc_lib_jll = "400bcd23-d117-5a43-8599-ddab092c9006"
+CompilerSupportLibraries_jll = "e66e0078-7015-5450-92f7-15fbd957f2ae"
+
+[compat]
+Libdl = "< 0.0.1, 1"
+julia = "1.10"
+JLLWrappers = "1.7.0"
+libblastrampoline_jll = "5.4.0"
+Artifacts = "< 0.0.1, 1"
+mctc_lib_jll = "0.6.1"
